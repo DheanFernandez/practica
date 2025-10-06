@@ -50,10 +50,7 @@
 
 ## 📊 GitHub Stats  
 
-![DHEAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdersonGP&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonGP&layout=compact&theme=tokyonight)  
-
----
+![DHEAN's GitHub stats] (https://github.com/DheanFernandez)
 
 ## 🌍 Conéctate conmigo  
 
