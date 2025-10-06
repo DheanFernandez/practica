@@ -75,3 +75,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DheanFernandez&theme=dracula" alt="Racha de Contribuciones de Dhean" />
 </p>
+### 🌍 Conéctate conmigo
+<p align="left">
+  <a href="https://github.com/DheanFernandez/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="github" />
+  </a>
+  <a href="https://linkedin.com/in/tu_usuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  <a href="mailto:fernandezpillmandhean@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="email" />
+  </a>
+</p>
